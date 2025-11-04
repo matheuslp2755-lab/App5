@@ -1,0 +1,5 @@
+{
+  "name": "MP Social",
+  "description": "A modern, responsive social media application inspired by Instagram. It features a central feed for posts, user profiles, messaging, search, and a language selector for English/Portuguese. The structure is prepared for Firebase integration.",
+  "requestFramePermissions": []
+}
